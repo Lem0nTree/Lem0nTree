@@ -6,7 +6,6 @@
 🔭 **Currently Building**: DeFi Builder — the first no-code marketplace for DeFi primitives  
 🌱 **Learning**: Next.js, Remix  
 💬 **Ask Me About**: Startup frameworks, ideation, and scaling projects
-
 <br>Approach<br>Ideate, Stress, Validate, Prototype, Launch, Repeat.<br><br>Hackathon Achievements<br>🏆 1st Prize: Nexi CPHACK2018 - CharityUP<br>🥉 3rd Prize: Poste Italiane - STEPO<br>🏆 1st Prize: IBM CognitiveHack - BananaBanking<br>🥈 2nd Prize: Digital Field Hack (TIM) - AgroDolce<br>🏆 1st Prize: Confcooperative Hack<br>🏆 1st Prize: John Cabot University Entrepreneurship Challenge - UniQue<br>🥇 1st Prize: Vodafone Esport Hackathon - Digital Wellbeing<br>🥉 3rd Prize: Accenture Digital Hackathon - OpenThesis<br>🥈 2nd Prize: Cisco Hack for Goal - Webex Virtual
 
 # 💻 Tech Stack:
@@ -22,10 +21,6 @@
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=lem0ntree&theme=github_dark_dimmed&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
 
