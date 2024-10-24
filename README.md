@@ -6,7 +6,29 @@
 🔭 **Currently Building**: DeFi Builder — the first no-code marketplace for DeFi primitives  
 🌱 **Learning**: Next.js, Remix  
 💬 **Ask Me About**: Startup frameworks, ideation, and scaling projects
-<br>Approach<br>Ideate, Stress, Validate, Prototype, Launch, Repeat.<br><br>Hackathon Achievements<br>🏆 1st Prize: Nexi CPHACK2018 - CharityUP<br>🥉 3rd Prize: Poste Italiane - STEPO<br>🏆 1st Prize: IBM CognitiveHack - BananaBanking<br>🥈 2nd Prize: Digital Field Hack (TIM) - AgroDolce<br>🏆 1st Prize: Confcooperative Hack<br>🏆 1st Prize: John Cabot University Entrepreneurship Challenge - UniQue<br>🥇 1st Prize: Vodafone Esport Hackathon - Digital Wellbeing<br>🥉 3rd Prize: Accenture Digital Hackathon - OpenThesis<br>🥈 2nd Prize: Cisco Hack for Goal - Webex Virtual
+<br>Approach<br>Ideate, Stress, Validate, Prototype, Launch, Repeat.<br><br>Hackathon Achievements<br><br>
+**Web3 Hackathons**<br>
+🏆 1st Prize: Nearcon 23<br>
+🏆 1st Prize: MultiversX xDay 2023<br>
+🏆 1st Prize: Neo X Grind Hackathon<br>
+🏆 1st Prize: BNB Chain Q3 Hackathon<br>
+🥉 3rd Prize: Chainlink Hackathon<br>
+🏆 1st Prize: Areon Network Hackathon<br>
+🥈 2nd Prize: Solana x Encode Hackathon<br>
+🥈 2nd Prize: Starknet Hackathon<br>
+🏆 1st Prize: ICP Balkans Ideathon<br>
+🏆 1st Prize: Fuel House<br><br><br>
+
+**Web2 Hackathons**<br>
+🏆 1st Prize: Nexi CPHACK2018 - CharityUP<br>
+🥉 3rd Prize: Poste Italiane - STEPO<br>
+🏆 1st Prize: IBM CognitiveHack - BananaBanking<br>
+🥈 2nd Prize: Digital Field Hack (TIM) - AgroDolce<br>
+🏆 1st Prize: Confcooperative Hack<br>
+🏆 1st Prize: John Cabot University Entrepreneurship Challenge - UniQue<br>
+🥇 1st Prize: Vodafone Esport Hackathon - Digital Wellbeing<br>
+🥉 3rd Prize: Accenture Digital Hackathon - OpenThesis<br>
+🥈 2nd Prize: Cisco Hack for Goal - Webex Virtual<br><br><br>
 
 # 💻 Tech Stack:
 
