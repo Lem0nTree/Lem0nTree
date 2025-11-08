@@ -1,23 +1,30 @@
 # 💫 About Me:
+"If I had five hours to write code, I'd spend the first four thinking about how to avoid rewriting it later."<br>
+— _Abraham Lincoln (probably)_<br><br>
+🔭 **Currently Building**: DeFi Builder — the first no-code marketplace for DeFi primitives<br><br>
+🧠 **My Philosophy & Approach:** Ideate, Stress-Test, Validate, Prototype, Launch, Repeat.<br><br>
+🌱 **Learning**:<br>
+  - **AI / MLOps**: Advanced model deployment with Kubeflow, exploring LLM architectures and RAG. Shifting from pure data science to the full engineering lifecycle.
+  - **Hardware Prototyping**: Engineering firmware for custom embedded systems to build functional physical devices from the ground up.
+  - **Web3 / MEV Infrastructure**: Diving deep into the Ethereum consensus and execution layers to understand the new block proposer system. 
+### ⚡️ Hackathon Achievements
 
-"If I had five hours to write code, I'd spend the first four thinking about how to avoid rewriting it later."  
-— _Abraham Lincoln (probably)_
-
-🔭 **Currently Building**: DeFi Builder — the first no-code marketplace for DeFi primitives  
-🌱 **Learning**: Next.js, Remix  
-💬 **Ask Me About**: Startup frameworks, ideation, and scaling projects
-<br>Approach<br>Ideate, Stress, Validate, Prototype, Launch, Repeat.<br><br>Hackathon Achievements<br><br>
+**Recent Wins:**
+<br><br>
 **Web3 Hackathons**<br>
-🏆 1st Prize: Nearcon 23<br>
-🏆 1st Prize: MultiversX xDay 2023<br>
-🏆 1st Prize: Neo X Grind Hackathon<br>
+🏆 1st Prize: Nearcon 23 - NearYield<br>
+🏆 1st Prize: MultiversX xDay 2023 - DefiBuilder<br>
+🏆 1st Prize: Neo X Grind Hackathon - NeoFlex<br>
 🏆 1st Prize: BNB Chain Q3 Hackathon<br>
+**✨ Selected for Binance Most Valuable Builder (MVB) 11 Program - Echopy**  
 🥉 3rd Prize: Chainlink Hackathon<br>
 🏆 1st Prize: Areon Network Hackathon<br>
 🥈 2nd Prize: Solana x Encode Hackathon<br>
 🥈 2nd Prize: Starknet Hackathon<br>
 🏆 1st Prize: ICP Balkans Ideathon<br>
-🏆 1st Prize: Fuel House<br><br><br>
+🏆 1st Prize: Fuel House<br>
+🥈 2nd Prize: Flow Forte Hackathon - Flowmatic<br><br><br>
+
 
 **Web2 Hackathons**<br>
 🏆 1st Prize: Nexi CPHACK2018 - CharityUP<br>
