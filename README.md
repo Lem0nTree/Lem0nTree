@@ -23,7 +23,11 @@
 🥈 2nd Prize: Starknet Hackathon<br>
 🏆 1st Prize: ICP Balkans Ideathon<br>
 🏆 1st Prize: Fuel House<br>
-🥈 2nd Prize: Flow Forte Hackathon - Flowmatic<br><br><br>
+🥈 2nd Prize: Flow Forte Hackathon - Flowmatic No Code Scheduled Transaction Composer - Online - Sept 2025<br>
+🏆 1st Prize: Praxos, liquidity investment layer for TradFi, operated on Rayls network. - Buenos Aires - EthGlobal - Dec 2025<br>
+🏆 1st Prize: Bot Trading Competition on RobinPump ( MEV Honeypot tactic ) - Hong Kong - Consensus - Jan 2026<br>
+<br><br>
+
 
 
 **Web2 Hackathons**<br>
@@ -47,13 +51,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lem0ntree&theme=github_dark_dimmed&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lem0ntree&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=lem0ntree&theme=github_dark_dimmed&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=lem0ntree&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
 
 ---
 
